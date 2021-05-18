@@ -25,7 +25,7 @@ gem("down", "4.8.1", :require => "down/net_http")
 gem("flipper", "0.16.2")
 gem("draper", "3.1.0")
 
-gem("puma", "4.1.0")
+gem("puma", "4.3.8")
 gem("puma_worker_killer", "0.1.1")
 gem("redcarpet", "3.5.0")
 
